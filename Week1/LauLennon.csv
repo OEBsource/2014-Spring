@@ -1,0 +1,322 @@
+Pot,Plants,Microbe_History,Microbe_mesocosm,Contemp_Water,plantlocation,Plant_Mesocosm,Plant_History,Planting_notes,Germination_date,Relative_germination_date,Germination_Notes,Flowering_Date,Relative_Flowering_Date,Leaf_number_at_flowering,height_at_flowering,flowering_notes,survival,Days_to_flower,Fruiting_notes,Fruit_number,Final_height,Thrip_damage,Flower_number,Plant_stage_at_experiment_end,Harvest_notes,Seed_number,Total_seed_mass,Mean_seed_mass,Aboveground_biomass
+3,Mixed,Wet microbes,11,Dry,3,1,Dry,,19-Jan,3,,,,,,,Alive,,all bud,0,8.5,1,15,,,0,0,0,0.0268
+9,Mixed,Wet microbes,21,Wet,4,1,Dry,,17-Jan,1,2 seeds,6-Feb,21,4,9,,Alive,20,buds,9,10.5,2,34,,,6,0.0139,2.3,0.0561
+18,Mixed,Wet microbes,23,Dry,4,1,Dry,,17-Jan,1,,20-Feb,35,4,4.5,,Alive,34,,1,10,1,28,,,0,0,0,0.0332
+24,Mixed,Wet microbes,11,Wet,4,1,Dry,,,,,17-Feb,32,4,8,,Alive,,"all immature, bud",10,16.5,2,59,bud,,0,0,0,0.0915
+31,Mixed,Dry microbes,24,Wet,4,1,Dry,,17-Jan,1,,10-Feb,25,5,11.5,,Alive,24,,9,21.5,1,70,immature fruit,all fruits are immature,0,0,0,0.1011
+38,Mixed,Wet microbes,23,Wet,3,1,Dry,,,,,,,,,,Alive,,,0,15.5,1,32,bud,,0,0,0,0.0811
+46,Mixed,Dry microbes,8,Wet,4,1,Dry,,18-Jan,2,,,,,,bud,,,bud,2,17.5,1,69,bud,,0,0,0,0.0942
+48,Mixed,Wet microbes,1,Dry,3,1,Dry,,17-Jan,1,,9-Feb,24,2,8,,Alive,23,,3,12,1,24,bud,,2,0.0074,3.7,0.0508
+54,Mixed,Dry microbes,19,Dry,4,1,Dry,,17-Jan,1,,6-Feb,21,4,9.5,,Alive,20,,2,10,2,26,,,1,0.0031,3.1,0.0411
+59,Mixed,Dry microbes,24,Wet,4,1,Dry,,20-Jan,4,,7-Feb,22,4,12.5,,Alive,18,,2,14.5,1,5,,,14,0.0154,1.1,0.0264
+64,Mixed,Dry microbes,24,Dry,3,1,Dry,,,,,,,,,No Plant,dead,,No Plant,,,,,,,0,,,
+68,Mixed,Wet microbes,1,Wet,4,1,Dry,,18-Jan,2,,,,,,,Alive,,,4,9.5,1,15,,,0,0,0,0.0467
+77,Mixed,Dry microbes,24,Wet,3,1,Dry,,20-Jan,4,,11-Feb,26,4,9,,Alive,22,,3,9.5,1,14,,,6,0.0095,1.6,0.0271
+80,Mixed,Wet microbes,1,Dry,3,1,Dry,,,,,15-Feb,30,4,4.5,,Alive,,,1,4.5,1,10,,,0,0,0,0.0077
+81,Mixed,Wet microbes,11,Dry,3,1,Dry,,21-Jan,5,,10-Feb,25,4,14,,Alive,20,,1,11,2,9,,,,,,
+90,Mixed,Wet microbes,23,Dry,4,1,Dry,,,,,19-Feb,34,4,4.5,,Alive,,,7,6.5,2,30,,,3,0.0029,1,0.0471
+91,Mixed,Wet microbes,23,Dry,3,1,Dry,,17-Jan,1,,7-Feb,22,2,4.5,,Alive,21,,1,5.5,3,2,,,3,0.0072,2.4,0.0127
+99,Mixed,Wet microbes,21,Dry,4,1,Dry,,18-Jan,2,,14-Feb,29,3,6,,Alive,27,,1,7,,10,,,2,0.0047,2.4,0.0274
+104,Mixed,Wet microbes,23,Dry,3,1,Dry,,,,,,,,,,Alive,,,,,,,,,,,,
+107,Mixed,Dry microbes,8,Dry,4,1,Dry,,17-Jan,1,,10-Feb,25,5,11,,Alive,24,,6,17,1,64,,,4,0.0073,1.8,0.0707
+110,Mixed,Dry microbes,8,Dry,3,1,Dry,,20-Jan,4,,,,,,,Alive,,,0,4,2,0,rosette,,0,0,0,0.0118
+118,Mixed,Dry microbes,9,Wet,3,1,Dry,,18-Jan,2,,4-Feb,19,3,10.5,,Alive,17,,5,11,1,5,,,19,0.017,0.9,0.0288
+126,Mixed,Dry microbes,8,Wet,3,1,Dry,,17-Jan,1,,5-Feb,20,4,10.5,,Alive,19,,5,17.5,2,10,,,24,0.03,1.3,0.0625
+131,Mixed,Dry microbes,9,Dry,3,1,Dry,,23-Jan,7,,17-Feb,32,4,7.5,,Alive,25,,1,8,,6,,,2,0.0012,0.6,0.0143
+136,Mixed,Wet microbes,21,Wet,3,1,Dry,,,,,10-Feb,25,2,6,,Alive,,,4,4.5,3,33,,,0,0,0,0.0482
+159,Mixed,Dry microbes,19,Wet,4,1,Dry,,19-Jan,3,,5-Feb,20,3,10,,Alive,17,,5,14.5,1,12,,,16,0.02,1.3,0.0513
+161,Mixed,Dry microbes,24,Wet,4,1,Dry,,20-Jan,4,,14-Feb,29,4,7.5,,Alive,25,,1,7.5,1,7,,,1,0.002,2,0.011
+165,Mixed,Wet microbes,23,Dry,3,1,Dry,,18-Jan,2,,9-Feb,24,3,3.5,,Alive,22,,1,4.5,,4,,,1,0.0022,2.2,0.018
+167,Mixed,Dry microbes,9,Wet,4,1,Dry,,17-Jan,1,,2-Feb,17,4,11.5,,Alive,16,,3,13.5,1,12,,,5,0.0117,2.3,0.0541
+168,Mixed,Wet microbes,1,Dry,3,1,Dry,,17-Jan,1,,16-Feb,31,3,7,,Alive,30,,5,8.5,2,33,,,1,0.0025,2.5,0.0422
+171,Mixed,Wet microbes,23,Wet,3,1,Dry,,17-Jan,1,,,,,,,Alive,,buds,3,23,1,95,bud,,0,0,0,0.101
+173,Mixed,Wet microbes,11,Dry,4,1,Dry,,17-Jan,1,,15-Feb,30,4,9.5,,Alive,29,,0,15,,44,,,0,0,0,0.0452
+176,Mixed,Wet microbes,1,Wet,3,1,Dry,,17-Jan,1,,8-Feb,23,2,5,,Alive,22,,4,5,1,27,bud,,0,0,0,0.0143
+177,Mixed,Wet microbes,21,Wet,4,1,Dry,,17-Jan,1,,6-Feb,21,2,6.5,,Alive,20,,10,8.5,1,56,,,11,0.0204,1.9,0.135
+181,Mixed,Dry microbes,9,Dry,3,1,Dry,,17-Jan,1,,7-Feb,22,4,11.5,,Alive,21,,2,14.5,1,16,,,11,0.0132,1.2,0.0316
+186,Mixed,Wet microbes,1,Dry,4,1,Dry,,17-Jan,1,,11-Feb,26,3,7,,Alive,25,,2,8.5,1,14,,,0,0,0,0.0317
+194,Mixed,Wet microbes,11,Wet,4,1,Dry,,17-Jan,1,,9-Feb,24,4,9,,Alive,23,,13,11,1,50,immature fruit,immature fruit,0,0,0,0.0453
+209,Mixed,Wet microbes,21,Dry,4,1,Dry,,,,,,,,,,Alive,,small plant,0,12.5,1,13,,,0,0,0,0.0324
+213,Mixed,Wet microbes,23,Wet,3,1,Dry,,17-Jan,1,,13-Feb,28,3,5.5,,Alive,27,,17,10.5,2,98,,,1,0.0024,2.4,0.0885
+232,Mixed,Wet microbes,21,Dry,4,1,Dry,,17-Jan,1,,16-Feb,31,4,8.5,,Alive,30,,5,11.5,1,29,,,3,0.005,1.7,0.0694
+237,Mixed,Dry microbes,19,Wet,3,1,Dry,,17-Jan,1,,9-Feb,24,3,9,,Alive,23,,1,14.5,1,47,bud,,1,0.0019,1.9,0.0597
+239,Mixed,Dry microbes,9,Wet,3,1,Dry,,17-Jan,1,,7-Feb,22,5,12.5,,Alive,21,,4,18,1,12,,,45,0.0392,1.4,0.0747
+3,Mixed,Wet microbes,11,Dry,1,8,Wet,,17-Jan,1,,13-Feb,28,5,8,,Alive,27,,1,10.5,2,24,,,2,0.0041,2.1,0.0424
+4,Mixed,Dry microbes,9,Dry,1,8,Wet,,17-Jan,1,,9-Feb,24,4,10,,Alive,23,,2,11.5,1,8,,,7,0.0106,1.5,0.0363
+12,Mixed,Dry microbes,24,Dry,1,8,Wet,,17-Jan,1,,4-Feb,19,4,7,,Alive,18,,5,8,0,12,,,13,0.0153,1.2,0.0335
+14,Mixed,Dry microbes,24,Dry,2,8,Wet,,17-Jan,1,,5-Feb,20,4,6.5,,Alive,19,,2,8,1,10,,,10,0.0164,1.6,0.0324
+18,Mixed,Wet microbes,23,Dry,1,8,Wet,,17-Jan,1,,,,,,bud,,,bud,0,4.5,2,12,,,0,0,0,0.0284
+24,Mixed,Wet microbes,11,Wet,1,8,Wet,,17-Jan,1,,6-Feb,21,3,8,,Alive,20,,5,8.5,2,25,,,2,0.005,2.5,0.0529
+27,Mixed,Dry microbes,24,Dry,1,8,Wet,,17-Jan,1,,9-Feb,24,4,6.5,,Alive,23,,2,10,2,12,,,2,0.0059,3,0.0286
+35,Mixed,Wet microbes,11,Wet,2,8,Wet,,18-Jan,2,,7-Feb,22,3,11.5,,Alive,20,,4,13.5,3,30,,,5,0.0123,2.5,0.056
+38,Mixed,Wet microbes,23,Wet,1,8,Wet,,17-Jan,1,,6-Feb,21,2,5,,Alive,20,,3,6.5,1,23,,,3,0.0074,2.5,0.0355
+39,Mixed,Dry microbes,8,Wet,2,8,Wet,,17-Jan,1,,7-Feb,22,4,12.5,,Alive,21,,3,14,0,13,,,17,0.0179,1.1,0.0464
+42,Mixed,Dry microbes,8,Wet,2,8,Wet,,17-Jan,1,,9-Feb,24,4,11.5,,Alive,23,,7,17.5,2,80,bud,,2,0.0044,2.2,0.1012
+46,Mixed,Dry microbes,8,Wet,2,8,Wet,,17-Jan,1,,6-Feb,21,3,11.5,,Alive,20,,6,12.5,1,7,,,13,0.0234,1.7,0.052
+47,Mixed,Dry microbes,8,Dry,2,8,Wet,,17-Jan,1,,6-Feb,21,3,8.5,,Alive,20,,1,8,2,4,,,3,0.0066,2.2,0.0213
+48,Mixed,Wet microbes,1,Dry,2,8,Wet,,17-Jan,1,,10-Feb,25,2,4.5,,Alive,24,,2,5.5,2,12,,,1,0.0028,2.8,0.0235
+49,Mixed,Wet microbes,1,Dry,2,8,Wet,,17-Jan,1,,7-Feb,22,3,5.5,,Alive,21,,1,5.5,3,7,,,7,0.0081,1.2,0.0103
+53,Mixed,Dry microbes,8,Dry,1,8,Wet,,18-Jan,2,,,,,,,Alive,,,0,6.5,3,15,bud,,0,0,0,0.0266
+59,Mixed,Dry microbes,24,Wet,2,8,Wet,,18-Jan,2,,8-Feb,23,5,13,,Alive,21,,1,13.5,1,7,,,7,0.0147,2.1,0.0404
+67,Mixed,Dry microbes,19,Wet,1,8,Wet,,17-Jan,1,,5-Feb,20,2,9.5,,Alive,19,,2,10.5,1,10,,,6,0.009,1.5,0.0238
+68,Mixed,Wet microbes,1,Wet,1,8,Wet,,18-Jan,2,,,,,,bud,,,bud,2,11,2,52,,,0,0,0,0.0591
+74,Mixed,Dry microbes,19,Dry,1,8,Wet,,19-Jan,3,,5-Feb,20,4,11,,Alive,17,,7,14,0,12,,,12,0.015,1.3,0.0396
+77,Mixed,Dry microbes,24,Wet,1,8,Wet,,17-Jan,1,,7-Feb,22,4,8,,Alive,21,,7,13.5,1,80,bud,,5,0.0086,1.7,0.0782
+80,Mixed,Wet microbes,1,Dry,2,8,Wet,,,,,9-Feb,24,4,4.5,,Alive,,,1,4,0,1,,,0,0,0,0.0058
+99,Mixed,Wet microbes,21,Dry,1,8,Wet,,18-Jan,2,,12-Feb,27,3,5,,Alive,25,,0,4,3,11,,,0,0,0,0.0128
+101,Mixed,Dry microbes,9,Dry,2,8,Wet,,,,,,,,,No Plant,dead,,No Plant,,,,,,,,,,
+104,Mixed,Wet microbes,23,Dry,1,8,Wet,,17-Jan,1,,16-Feb,31,2,4,,Alive,30,,0,4,1,16,,,0,0,0,0.0126
+118,Mixed,Dry microbes,9,Wet,2,8,Wet,,17-Jan,1,,8-Feb,23,4,11.5,,Alive,22,,4,15.5,1,14,,,13,0.0242,1.9,0.0803
+123,Mixed,Dry microbes,24,Wet,2,8,Wet,,18-Jan,2,,9-Feb,24,4,11.5,,Alive,22,,2,14,1,33,,,0,0,0,0.0485
+131,Mixed,Dry microbes,9,Dry,2,8,Wet,,24-Jan,8,,5-Feb,20,4,9.5,,Alive,12,,5,,,10,,,14,0.0126,0.9,0.0255
+136,Mixed,Wet microbes,21,Wet,2,8,Wet,,17-Jan,1,,5-Feb,20,4,11.5,,Alive,19,,1,14,2,15,,,5,0.0106,2.1,0.0443
+138,Mixed,Wet microbes,21,Wet,2,8,Wet,,,,,12-Feb,27,2,7.5,,Alive,,,1,6.5,1,7,,,3,0.0051,1.7,0.0111
+162,Mixed,Dry microbes,8,Dry,2,8,Wet,,17-Jan,1,,8-Feb,23,4,11.5,,Alive,22,,4,17,1,17,,,11,0.0134,1.2,0.0293
+165,Mixed,Wet microbes,23,Dry,2,8,Wet,,17-Jan,1,,15-Feb,30,4,5,,Alive,29,,1,7,,7,,,1,0.002,2,0.0238
+167,Mixed,Dry microbes,9,Wet,1,8,Wet,,17-Jan,1,,3-Feb,18,3,11,,Alive,17,,3,12.5,1,12,,,7,0.0096,1.4,0.0327
+170,Mixed,Wet microbes,21,Wet,2,8,Wet,,17-Jan,1,,5-Feb,20,3,6.5,,Alive,19,,2,7.5,1,12,,,8,0.01,1.3,0.0238
+171,Mixed,Wet microbes,23,Wet,2,8,Wet,,18-Jan,2,,14-Feb,29,3,6.5,,Alive,27,,6,10,2,46,,,0,0,0,0.0619
+179,Mixed,Wet microbes,23,Wet,2,8,Wet,,17-Jan,1,,,,,,buds,,,buds,14,27.5,2,80,bud,all immature fruits,0,0,0,0.1243
+186,Mixed,Wet microbes,1,Dry,2,8,Wet,,,,,,,,,,Alive,,small plant,0,10,1,14,bud,,0,0,0,0.0232
+193,Mixed,Dry microbes,24,Dry,1,8,Wet,,,,,10-Feb,25,3,5.5,,Alive,,,1,6,0,10,,,1,0.0028,2.8,0.0079
+194,Mixed,Wet microbes,11,Wet,1,8,Wet,,17-Jan,1,,7-Feb,22,3,10,,Alive,21,,1,10.5,1,13,,,9,0.0173,1.9,0.041
+202,Mixed,Wet microbes,21,Dry,1,8,Wet,,18-Jan,2,,9-Feb,24,3,6.5,,Alive,22,,1,7.5,1,6,,,9,0.0095,1.1,0.0114
+209,Mixed,Wet microbes,21,Dry,1,8,Wet,,18-Jan,2,,,,,,,Alive,,small plant,0,9.5,1,20,bud,,0,0,0,0.0301
+221,Mixed,Dry microbes,19,Dry,1,8,Wet,,17-Jan,1,,5-Feb,20,4,12,,Alive,19,,3,16.5,0,17,,,17,0.0194,1.1,0.045
+236,Mixed,Dry microbes,19,Dry,1,8,Wet,,17-Jan,1,,5-Feb,20,4,10,,Alive,19,,2,14,,5,,,7,0.0146,2.1,0.034
+237,Mixed,Dry microbes,19,Wet,2,8,Wet,,17-Jan,1,,5-Feb,20,4,11.5,,Alive,19,,6,15,1,10,,,20,0.0293,1.5,0.0624
+239,Mixed,Dry microbes,9,Wet,1,8,Wet,,,,,11-Feb,26,2,7.5,,Alive,,,2,8,0,9,,,,0.0072,2.4,0.0942
+12,Mixed,Dry microbes,24,Dry,2,9,Wet,,17-Jan,1,,6-Feb,21,3,5.5,,Alive,20,,3,9.5,0,18,,,7,0.007,1,0.045
+18,Mixed,Wet microbes,23,Dry,2,9,Wet,,17-Jan,1,,8-Feb,23,3,6.5,,Alive,22,,1,8.5,2,6,,,1,0.0022,2.2,0.0173
+31,Mixed,Dry microbes,24,Wet,2,9,Wet,,17-Jan,1,,6-Feb,21,3,13.5,,Alive,20,,2,15,1,9,,,9,0.0129,1.4,0.0375
+35,Mixed,Wet microbes,11,Wet,1,9,Wet,,,,,20-Feb,35,3,6,"flower date was missed originally, educated guess for 2/20. MH 2/22/2010",,,"flower date was missed originally, educated guess for 2/20. MH 2/22/2010 immature",6,7.5,2,33,immature fruit,,0,0,0,0.0401
+39,Mixed,Dry microbes,8,Wet,1,9,Wet,9 is small seed,20-Jan,4,,10-Feb,25,4,11.5,,Alive,21,,1,11.5,1,9,,,2,0.0073,3.7,0.0256
+42,Mixed,Dry microbes,8,Wet,1,9,Wet,,20-Jan,4,,6-Feb,21,3,11,,Alive,17,,5,11.5,1,10,,,20,0.0247,1.2,0.0467
+43,Mixed,Wet microbes,1,Wet,2,9,Wet,,20-Jan,4,,19-Feb,34,4,5,,Alive,30,,1,7,1,23,,,0,0,0,0.0257
+53,Mixed,Dry microbes,8,Dry,2,9,Wet,,24-Jan,8,,,,,,No Plant,dead,,No Plant,,,,,,,0,,,
+56,Mixed,Wet microbes,23,Wet,2,9,Wet,,17-Jan,1,,8-Feb,23,3,8.5,,Alive,22,,2,11,2,7,,,12,0.0173,1.4,0.0331
+64,Mixed,Dry microbes,24,Dry,1,9,Wet,,17-Jan,1,,4-Feb,19,3,8,,Alive,18,,3,9,2,15,,,0,0,0,0.0402
+66,Mixed,Dry microbes,8,Wet,2,9,Wet,,17-Jan,1,,4-Feb,19,3,7.5,,Alive,18,,5,10.5,,17,,,16,0.0204,1.3,0.0572
+67,Mixed,Dry microbes,19,Wet,2,9,Wet,,18-Jan,2,,6-Feb,21,4,14.5,,Alive,19,,4,17,0,14,,,8,0.0177,2.2,0.0668
+68,Mixed,Wet microbes,1,Wet,2,9,Wet,,17-Jan,1,,11-Feb,26,4,6.5,,Alive,25,,5,11,1,21,bud,,2,0.0052,2.6,0.0527
+79,Mixed,Dry microbes,19,Wet,1,9,Wet,,17-Jan,1,,8-Feb,23,4,13,,Alive,22,,4,16.5,0,12,,,24,0.0257,1.1,0.0484
+80,Mixed,Wet microbes,1,Dry,1,9,Wet,,18-Jan,2,,10-Feb,25,3,6,,Alive,23,,1,6.5,2,8,,,1,0.0012,1.2,0.0116
+81,Mixed,Wet microbes,11,Dry,2,9,Wet,,17-Jan,1,,10-Feb,25,3,5.5,,Alive,24,,2,14.5,2,13,,,8,0.0159,2,0.0494
+86,Mixed,Wet microbes,1,Wet,1,9,Wet,,18-Jan,2,,8-Feb,23,2,5,,Alive,21,,1,6,1,9,,,2,0.0062,3.1,0.0188
+91,Mixed,Wet microbes,23,Dry,2,9,Wet,,18-Jan,2,,,,,,bud,,,bud,0,5,1,32,,,0,0,0,0.0146
+101,Mixed,Dry microbes,9,Dry,1,9,Wet,,17-Jan,1,,9-Feb,24,4,12,,Alive,23,,4,16,,8,,,0,0,0,0.0302
+104,Mixed,Wet microbes,23,Dry,2,9,Wet,,17-Jan,1,,12-Feb,27,2,5.5,,Alive,26,,0,6,2,20,,,0,0,0,0.0245
+107,Mixed,Dry microbes,8,Dry,1,9,Wet,,20-Jan,4,,,,,,dead plant,dead,,dead plant,,,,,,,,,,
+109,Mixed,Wet microbes,11,Dry,1,9,Wet,,17-Jan,1,,7-Feb,22,4,4,,Alive,21,,1,3.5,1,10,,,2,0.0036,1.8,0.0128
+110,Mixed,Dry microbes,8,Dry,2,9,Wet,,17-Jan,1,,13-Feb,28,4,11,,Alive,27,,1,15,,11,,,2,0.0046,2.3,0.0447
+130,Mixed,Dry microbes,9,Wet,2,9,Wet,,18-Jan,2,,9-Feb,24,4,11.5,,Alive,22,,3,13,0,14,,,5,0.0082,1.6,0.0505
+131,Mixed,Dry microbes,9,Dry,1,9,Wet,,17-Jan,1,,5-Feb,20,4,7.5,,Alive,19,,2,7.5,2,5,,,1,0.0004,0.4,0.0257
+132,Mixed,Wet microbes,11,Wet,2,9,Wet,,18-Jan,2,,12-Feb,27,2,5.5,,Alive,25,,0,5.5,1,8,,,0,0,0,0.0155
+136,Mixed,Wet microbes,21,Wet,1,9,Wet,,17-Jan,1,,6-Feb,21,2,5,,Alive,20,,2,6,1,4,,,9,0.0122,1.4,0.0231
+155,Mixed,Wet microbes,11,Dry,1,9,Wet,,,,,,,,,No Plant,,,No Plant,,,,,,,,,,
+157,Mixed,Wet microbes,1,Wet,2,9,Wet,,17-Jan,1,,9-Feb,24,3,5.5,,Alive,23,,1,8,2,26,,,1,0.0014,1.4,0.034
+159,Mixed,Dry microbes,19,Wet,1,9,Wet,,22-Jan,6,,13-Feb,28,2,7,,Alive,22,,1,7.5,1,7,,,5,0.0043,0.9,0.0106
+161,Mixed,Dry microbes,24,Wet,1,9,Wet,,19-Jan,3,,7-Feb,22,4,7.5,,Alive,19,,2,8,1,2,,,4,0.0059,1.5,0.017
+165,Mixed,Wet microbes,23,Dry,1,9,Wet,9 is very small seed,24-Jan,8,,,,,,no plant,dead,,no plant,,,,,,,,,,
+168,Mixed,Wet microbes,1,Dry,1,9,Wet,,17-Jan,1,,11-Feb,26,4,7,,Alive,25,,1,7,1,5,,,8,0.012,1.5,0.0209
+173,Mixed,Wet microbes,11,Dry,1,9,Wet,,17-Jan,1,,12-Feb,27,4,4.5,,Alive,26,,1,9,,12,,,2,0.0048,2.4,0.0198
+175,Mixed,Dry microbes,9,Dry,1,9,Wet,,,,,,,,,No Plant,,,No Plant,,,,,,,,,,
+176,Mixed,Wet microbes,1,Wet,2,9,Wet,,18-Jan,2,,22-Feb,37,4,5.5,,Alive,35,,7,12,1,26,bud,,5,0.0103,2.1,0.0491
+177,Mixed,Wet microbes,21,Wet,2,9,Wet,,17-Jan,1,,6-Feb,21,2,6,,Alive,20,,2,6.5,1,14,,,5,0.0114,2.3,0.0237
+181,Mixed,Dry microbes,9,Dry,2,9,Wet,,18-Jan,2,,8-Feb,23,3,6,,Alive,21,,1,6.5,1,6,,,9,0.0096,1.1,0.0119
+184,Mixed,Wet microbes,21,Dry,1,9,Wet,,17-Jan,1,,14-Feb,29,3,6,,Alive,28,,1,11.5,1,14,,,0,0,0,0.0328
+202,Mixed,Wet microbes,21,Dry,2,9,Wet,,21-Jan,5,,,,,,,Alive,,small plant,0,2.5,2,6,,,0,0,0,0.0108
+209,Mixed,Wet microbes,21,Dry,2,9,Wet,,,,,,,,,no plant,,,no plant,,,,,,,,,,
+213,Mixed,Wet microbes,23,Wet,2,9,Wet,,17-Jan,1,,13-Feb,28,3,8.5,,Alive,27,,8,11,2,32,,,5,0.0102,2,0.0634
+221,Mixed,Dry microbes,19,Dry,2,9,Wet,,17-Jan,1,,8-Feb,23,4,11.5,,Alive,22,,2,13,1,24,,,3,0.0077,2.6,0.0376
+237,Mixed,Dry microbes,19,Wet,1,9,Wet,,18-Jan,2,,8-Feb,23,3,8.5,,Alive,21,,2,9.5,0,13,,,4,0.0111,2.8,0.0297
+4,Mixed,Dry microbes,9,Dry,4,11,Dry,,17-Jan,1,2 seedlings,8-Feb,23,5,8,,Alive,22,,6,17.5,1,44,immature fruit,,1,0.0023,2.3,0.0632
+12,Mixed,Dry microbes,24,Dry,4,11,Dry,,17-Jan,1,,6-Feb,21,3,9.5,,Alive,20,,5,13,0,24,,,6,0.0113,1.9,0.0463
+39,Mixed,Dry microbes,8,Wet,4,11,Dry,,17-Jan,1,,4-Feb,19,5,14.5,,Alive,18,,6,18.5,0,17,,,22,0.0305,1.4,0.0883
+42,Mixed,Dry microbes,8,Wet,3,11,Dry,,20-Jan,4,,15-Feb,30,2,1.5,,Alive,26,,1,1.5,0,2,,,0,0,0,0.0036
+43,Mixed,Wet microbes,1,Wet,4,11,Dry,,17-Jan,1,,7-Feb,22,4,9.5,,Alive,21,,9,11.5,2,41,immature fruit,,1,0.0037,3.7,0.0719
+46,Mixed,Dry microbes,8,Wet,3,11,Dry,,17-Jan,1,,8-Feb,23,4,11,,Alive,22,,10,21,1,64,,,14,0.03,2,0.1184
+47,Mixed,Dry microbes,8,Dry,4,11,Dry,,18-Jan,2,,8-Feb,23,4,6.5,,Alive,21,,1,7,1,4,,,4,0.0067,1.7,0.0146
+53,Mixed,Dry microbes,8,Dry,3,11,Dry,,17-Jan,1,,8-Feb,23,4,7.5,,Alive,22,,4,12.5,1,12,,,4,0.009,2.3,0.0271
+54,Mixed,Dry microbes,19,Dry,3,11,Dry,,17-Jan,1,,8-Feb,23,4,5.5,,Alive,22,,1,5.5,1,1,,,0,0,0,0.0104
+56,Mixed,Wet microbes,23,Wet,4,11,Dry,,17-Jan,1,,20-Feb,35,3,7.5,,Alive,34,,3,11,1,38,bud,,0,0,0,0.0995
+66,Mixed,Dry microbes,8,Wet,4,11,Dry,,17-Jan,1,,4-Feb,19,2,8.5,,Alive,18,,3,11,2,15,,,4,0.0075,1.9,0.0404
+67,Mixed,Dry microbes,19,Wet,3,11,Dry,,,,,6-Feb,21,4,10.5,,Alive,,,7,16,0,16,,,10,0.0173,1.7,0.051
+74,Mixed,Dry microbes,19,Dry,3,11,Dry,,,,,10-Feb,25,4,8,,Alive,,,2,13,1,37,,,0,0,0,0.033
+79,Mixed,Dry microbes,19,Wet,3,11,Dry,,20-Jan,4,,7-Feb,22,4,14,,Alive,18,,3,14.5,0,9,,,7,0.0151,2.2,0.0509
+86,Mixed,Wet microbes,1,Wet,3,11,Dry,,17-Jan,1,,17-Feb,32,4,10.5,,Alive,31,,8,13.5,1,25,,,2,0.0056,2.8,0.0787
+90,Mixed,Wet microbes,23,Dry,3,11,Dry,,18-Jan,2,,8-Feb,23,4,6.5,,Alive,21,,1,8,2,5,,,3,0.0054,1.8,0.0132
+91,Mixed,Wet microbes,23,Dry,4,11,Dry,,,,,18-Feb,33,3,4.5,,Alive,,,6,9.5,1,50,bud,,0,0,0,0.0523
+104,Mixed,Wet microbes,23,Dry,4,11,Dry,,17-Jan,1,,17-Feb,32,5,6.5,,Alive,31,,1,7.5,3,100,,,0,0,0,0.0515
+109,Mixed,Wet microbes,11,Dry,4,11,Dry,,17-Jan,1,,9-Feb,24,2,2,,Alive,23,,1,8,,3,bud,,2,0.0045,2.3,0.0461
+118,Mixed,Dry microbes,9,Wet,4,11,Dry,,17-Jan,1,,5-Feb,20,3,11.5,,Alive,19,,5,19.5,1,15,,,39,0.0476,1.2,0.0711
+126,Mixed,Dry microbes,8,Wet,4,11,Dry,,18-Jan,2,,8-Feb,23,5,12.5,,Alive,21,,10,21,1,61,,,12,0.0204,1.7,0.1254
+130,Mixed,Dry microbes,9,Wet,3,11,Dry,,17-Jan,1,,6-Feb,21,4,13,,Alive,20,,1,13,2,12,,,7,0.0134,1.9,0.039
+131,Mixed,Dry microbes,9,Dry,4,11,Dry,,17-Jan,1,,6-Feb,21,4,10.5,,Alive,20,,4,14.5,1,10,,,13,0.0148,1.1,0.0372
+134,Mixed,Dry microbes,19,Dry,3,11,Dry,,17-Jan,1,,,,,,,Alive,,,0,7.5,1,20,bud,,0,0,0,0.0233
+136,Mixed,Wet microbes,21,Wet,4,11,Dry,,17-Jan,1,,8-Feb,23,4,6.5,,Alive,22,,5,9.5,3,42,,,2,0.0041,2.1,0.0746
+144,Mixed,Wet microbes,11,Wet,3,11,Dry,,17-Jan,1,,13-Feb,28,4,10.5,,Alive,27,,4,12,1,75,immature fruit,,0,0,0,0.1017
+145,Mixed,Dry microbes,9,Wet,3,11,Dry,,17-Jan,1,,3-Feb,18,3,9,,Alive,17,,3,13,0,14,,,17,0.0266,1.6,0.0642
+155,Mixed,Wet microbes,11,Dry,3,11,Dry,,,,,12-Feb,27,2,4,,Alive,,,3,8.5,1,41,,,1,0.0023,2.3,0.0396
+165,Mixed,Wet microbes,23,Dry,4,11,Dry,,17-Jan,1,2 seedlings,16-Feb,31,4,7,,Alive,30,,1,9.5,2,24,,,1,0.0028,2.8,0.0442
+167,Mixed,Dry microbes,9,Wet,3,11,Dry,,,,,10-Feb,25,4,5,,Alive,,,1,6.5,1,8,,,1,0.0026,2.6,0.0163
+168,Mixed,Wet microbes,1,Dry,4,11,Dry,,17-Jan,1,,8-Feb,23,2,5.5,,Alive,22,,1,5.5,1,6,,,4,0.0058,1.5,0.0107
+170,Mixed,Wet microbes,21,Wet,4,11,Dry,,17-Jan,1,,6-Feb,21,4,8,,Alive,20,,2,11,1,50,,,1,0.002,2,0.0639
+171,Mixed,Wet microbes,23,Wet,4,11,Dry,,21-Jan,5,,14-Feb,29,2,0.5,,Alive,24,,3,2.5,2,16,immature fruit,,0,0,0,0.0372
+177,Mixed,Wet microbes,21,Wet,3,11,Dry,,,,,,,,,No Plant,,,No Plant,,,,,,,,,,
+179,Mixed,Wet microbes,23,Wet,3,11,Dry,,17-Jan,1,,6-Feb,21,3,4.5,,Alive,20,,2,4,1,21,bud,,3,0.0088,2.9,0.0418
+184,Mixed,Wet microbes,21,Dry,4,11,Dry,,17-Jan,1,,5-Feb,20,2,6.5,,Alive,19,,2,8.5,2,6,,,5,0.0115,2.3,0.0196
+193,Mixed,Dry microbes,24,Dry,3,11,Dry,,,,,8-Feb,23,4,7.5,,Alive,,,1,8,1,7,,,8,0.0074,0.9,0.0093
+209,Mixed,Wet microbes,21,Dry,3,11,Dry,,17-Jan,1,,6-Feb,21,4,9,,Alive,20,add 4 seeds to final seed count. Seeds dropped at harvest.,3,14,1,12,bud,,24,0.0253,1.3,0.0316
+221,Mixed,Dry microbes,19,Dry,3,11,Dry,11 is small seed,23-Jan,7,,,,,,,Alive,,dying,0,1,1,4,,,0,0,0,
+232,Mixed,Wet microbes,21,Dry,3,11,Dry,,17-Jan,1,,13-Feb,28,3,4.5,,Alive,27,,1,6.5,3,17,,,5,0.0109,2.2,0.0216
+3,Mixed,Wet microbes,11,Dry,2,19,Dry,,18-Jan,2,,,,,,bud,,,bud,0,6.5,1,15,,,0,0,0,0.0148
+4,Mixed,Dry microbes,9,Dry,2,19,Dry,,17-Jan,1,,13-Feb,28,4,13.5,,Alive,27,,2,12.5,1,18,,,5,0.0061,1.2,0.0374
+9,Mixed,Wet microbes,21,Wet,2,19,Dry,,17-Jan,1,,8-Feb,23,2,11,,Alive,22,bud,3,12.5,1,33,,,7,0.0102,1.5,0.0572
+24,Mixed,Wet microbes,11,Wet,2,19,Dry,,18-Jan,2,,10-Feb,25,2,7.5,,Alive,23,,2,8.5,1,7,,,6,0.0096,1.6,0.0186
+43,Mixed,Wet microbes,1,Wet,1,19,Dry,,17-Jan,1,,7-Feb,22,4,7.5,,Alive,21,,9,13,2,61,immature fruit,,2,0.0061,3.1,0.0647
+47,Mixed,Dry microbes,8,Dry,1,19,Dry,,17-Jan,1,,9-Feb,24,4,9,,Alive,23,,1,12.5,1,37,,,0,0,0,0.0468
+49,Mixed,Wet microbes,1,Dry,1,19,Dry,,18-Jan,2,,7-Feb,22,2,4.5,,Alive,20,,1,4.5,2,4,,,0,0,0,0.0111
+54,Mixed,Dry microbes,19,Dry,2,19,Dry,,17-Jan,1,,6-Feb,21,3,7.5,,Alive,20,,5,9,1,10,,,7,0.0085,1.2,0.0237
+59,Mixed,Dry microbes,24,Wet,1,19,Dry,,17-Jan,1,,6-Feb,21,4,13.5,,Alive,20,,2,14,1,10,,,13,0.0211,1.6,0.039
+64,Mixed,Dry microbes,24,Dry,2,19,Dry,19 is small seed,,,,,,,,No Plant,dead,,No Plant,,,,,,,0,,,
+66,Mixed,Dry microbes,8,Wet,1,19,Dry,,18-Jan,2,,9-Feb,24,2,6,,Alive,22,,1,7,1,5,,,0,0,0,0.0073
+74,Mixed,Dry microbes,19,Dry,2,19,Dry,,,,,14-Feb,29,2,2.5,,Alive,,,0,3,1,1,,,0,0,0,0.0023
+79,Mixed,Dry microbes,19,Wet,4,19,Dry,,,,,9-Feb,24,3,10.5,,Alive,,,2,11.5,0,7,,,5,0.0073,1.5,0.0274
+86,Mixed,Wet microbes,1,Wet,2,19,Dry,,18-Jan,2,,6-Feb,21,2,3.5,,Alive,19,,1,4,2,5,,,2,0.0033,1.7,0.0082
+90,Mixed,Wet microbes,23,Dry,1,19,Dry,,,,,,,,,No Plant,dead,,No Plant,,,,,,,,,,
+99,Mixed,Wet microbes,21,Dry,2,19,Dry,,18-Jan,2,,,,,,bud,,,bud,0,4.5,2,10,,,0,0,0,0.015
+123,Mixed,Dry microbes,24,Wet,1,19,Dry,,,,,12-Feb,27,3,8.5,,Alive,,,1,9.5,1,7,,,0,0,0,0.0163
+126,Mixed,Dry microbes,8,Wet,1,19,Dry,,18-Jan,2,,6-Feb,21,3,9,,Alive,19,,2,8.5,1,5,,,9,0.013,1.4,0.0231
+132,Mixed,Wet microbes,11,Wet,1,19,Dry,,17-Jan,1,,6-Feb,21,3,9,,Alive,20,,3,8.5,2,6,,,12,0.0173,1.4,0.0316
+134,Mixed,Dry microbes,19,Dry,1,19,Dry,,17-Jan,1,,5-Feb,20,4,8.5,,Alive,19,,2,10.5,1,16,,,5,0.0097,1.9,0.0385
+138,Mixed,Wet microbes,21,Wet,1,19,Dry,,17-Jan,1,,12-Feb,27,5,9.5,,Alive,26,,22,23,2,83,,,8,0.0146,1.8,0.2173
+144,Mixed,Wet microbes,11,Wet,1,19,Dry,,17-Jan,1,,7-Feb,22,2,11.5,,Alive,21,,9,18,1,60,bud,,14,0.0215,1.5,0.1379
+145,Mixed,Dry microbes,9,Wet,2,19,Dry,,24-Jan,8,,,,,,No Plant,dead,,No Plant,,,,,,,,,,
+155,Mixed,Wet microbes,11,Dry,2,19,Dry,,18-Jan,2,,11-Feb,26,3,5.5,,Alive,24,,2,6.5,1,49,,,2,0.0057,2.9,0.041
+159,Mixed,Dry microbes,19,Wet,2,19,Dry,,21-Jan,5,,7-Feb,22,3,8.5,,Alive,17,,3,9.5,0,5,,,9,0.0108,1.2,0.0177
+161,Mixed,Dry microbes,24,Wet,2,19,Dry,,17-Jan,1,,4-Feb,19,5,12.5,,Alive,18,,7,18.5,1,51,,,4,0.0107,2.7,0.1074
+162,Mixed,Dry microbes,8,Dry,1,19,Dry,,,,,,,,,No Plant,,,No Plant,,,,,,,,,,
+167,Mixed,Dry microbes,9,Wet,2,19,Dry,,17-Jan,1,,7-Feb,22,4,11.5,,Alive,21,,2,16.5,1,17,,,10,0.0182,1.8,0.0542
+177,Mixed,Wet microbes,21,Wet,1,19,Dry,,17-Jan,1,,,,,,buds,,,buds,10,16,1,74,bud,immature fruit,0,0,0,0.1381
+179,Mixed,Wet microbes,23,Wet,1,19,Dry,,,,,,,,,No Plant,,,No Plant,,,,,,,,,,
+184,Mixed,Wet microbes,21,Dry,2,19,Dry,,17-Jan,1,,11-Feb,26,4,7,,Alive,25,,2,14.5,1,45,,,0,0,0,0.0572
+208,Mixed,Dry microbes,19,Wet,1,19,Dry,,17-Jan,1,,4-Feb,19,4,16,,Alive,18,,4,20,0,39,,,5,0.0134,2.7,0.1077
+213,Mixed,Wet microbes,23,Wet,1,19,Dry,,,,,,,,,No Plant,,,No Plant,,,,,,,,,,
+232,Mixed,Wet microbes,21,Dry,2,19,Dry,,17-Jan,1,,6-Feb,21,3,6,,Alive,20,,2,9.5,1,5,,,8,0.0177,2.2,0.0459
+239,Mixed,Dry microbes,9,Wet,2,19,Dry,,,,,,,,,no plant,,,no plant,,,,,,,29,,,
+3,Mixed,Wet microbes,11,Dry,4,21,Wet,,17-Jan,1,,4-Feb,19,2,6,,Alive,18,,1,5.5,2,2,,,4,0.0067,1.7,0.0163
+9,Mixed,Wet microbes,21,Wet,3,21,Wet,,20-Jan,4,,,,,,No Plant,dead,,No Plant,,,,,,,,,,
+14,Mixed,Dry microbes,24,Dry,4,21,Wet,,17-Jan,1,,6-Feb,21,5,6.5,,Alive,20,,2,11.5,3,12,,,11,0.0112,1,0.0282
+27,Mixed,Dry microbes,24,Dry,3,21,Wet,,18-Jan,2,,8-Feb,23,4,8.5,,Alive,21,,0,13,2,35,,,0,0,0,0.0297
+35,Mixed,Wet microbes,11,Wet,4,21,Wet,,20-Jan,4,,7-Feb,22,4,10,,Alive,18,,4,12.5,3,37,,,3,0.0082,2.7,0.0651
+39,Mixed,Dry microbes,8,Wet,3,21,Wet,,17-Jan,1,,7-Feb,22,3,10.5,,Alive,21,,3,13.5,0,13,,,16,0.0169,1.1,0.0413
+42,Mixed,Dry microbes,8,Wet,4,21,Wet,,17-Jan,1,,6-Feb,21,3,15.5,,Alive,20,,2,19,0,10,,,15,0.0243,1.6,0.0506
+43,Mixed,Wet microbes,1,Wet,3,21,Wet,,,,,8-Feb,23,4,6,,Alive,,,0,7.5,1,36,,,0,0,0,0.0231
+47,Mixed,Dry microbes,8,Dry,3,21,Wet,,17-Jan,1,,4-Feb,19,4,11,,Alive,18,,3,16.5,1,20,,,1,0.004,4,0.0567
+48,Mixed,Wet microbes,1,Dry,4,21,Wet,,17-Jan,1,,5-Feb,20,2,9.5,,Alive,19,,1,10.5,1,9,,,1,0.0026,2.6,0.0237
+49,Mixed,Wet microbes,1,Dry,3,21,Wet,,17-Jan,1,,14-Feb,29,4,6,,Alive,28,,1,7,1,12,,,4,0.0045,1.1,0.0181
+56,Mixed,Wet microbes,23,Wet,3,21,Wet,,17-Jan,1,,12-Feb,27,3,10,,Alive,26,,5,13.5,1,38,immature fruit,,0,0,0,0.0722
+66,Mixed,Dry microbes,8,Wet,3,21,Wet,,17-Jan,1,,7-Feb,22,3,11.5,,Alive,21,,3,15.5,2,54,immature fruit,,1,0.0031,3.1,0.0727
+67,Mixed,Dry microbes,19,Wet,4,21,Wet,,,,,8-Feb,23,5,12,,Alive,,,1,12,1,4,,,7,0.0074,1.1,0.0201
+68,Mixed,Wet microbes,1,Wet,3,21,Wet,,,,,14-Feb,29,4,4,,Alive,,,1,7,2,25,,,0,0,0,0.0231
+81,Mixed,Wet microbes,11,Dry,4,21,Wet,,17-Jan,1,,15-Feb,30,4,7.5,,Alive,29,,2,14.5,1,39,,,3,0.0034,1.1,0.041
+99,Mixed,Wet microbes,21,Dry,3,21,Wet,,,,,16-Feb,31,3,3.5,,Alive,,,0,3.5,3,5,,,0,0,0,0.0074
+101,Mixed,Dry microbes,9,Dry,3,21,Wet,,,,,18-Feb,33,4,5,,Alive,,,2,5,1,24,immature fruit,,0,0,0,0.0148
+109,Mixed,Wet microbes,11,Dry,3,21,Wet,,21-Jan,5,,9-Feb,24,4,2.5,,Alive,19,,1,3,2,51,,,1,0.0029,2.9,0.0153
+110,Mixed,Dry microbes,8,Dry,4,21,Wet,,17-Jan,1,,10-Feb,25,5,11.5,,Alive,24,,3,16,1,27,,,,0.0121,2,0.0561
+123,Mixed,Dry microbes,24,Wet,3,21,Wet,,,,,13-Feb,28,4,7.5,,Alive,,,1,12,2,29,,,2,0.0042,2.1,0.0379
+130,Mixed,Dry microbes,9,Wet,4,21,Wet,,17-Jan,1,,11-Feb,26,4,12,,Alive,25,,7,18.5,1,40,,,1,0.0016,1.6,0.0845
+132,Mixed,Wet microbes,11,Wet,3,21,Wet,,17-Jan,1,,5-Feb,20,3,8.5,,Alive,19,,2,8.5,1,21,,,10,0.0169,1.7,0.0441
+134,Mixed,Dry microbes,19,Dry,4,21,Wet,,17-Jan,1,,4-Feb,19,4,9,,Alive,18,,1,9.5,1,17,,,1,0.0025,2.5,0.044
+138,Mixed,Wet microbes,21,Wet,3,21,Wet,,,,,19-Feb,34,3,3.5,,Alive,,,1,3.5,2,18,,,0,0,0,0.0165
+145,Mixed,Dry microbes,9,Wet,4,21,Wet,,17-Jan,1,,7-Feb,22,4,14.5,,Alive,21,,5,17,1,13,,,19,0.0259,1.4,0.0624
+157,Mixed,Wet microbes,1,Wet,4,21,Wet,very small seed,19-Jan,3,,,,,,,Alive,,small plant,0,1,1,0,,,0,0,0,0.0111
+159,Mixed,Dry microbes,19,Wet,3,21,Wet,,18-Jan,2,,8-Feb,23,4,11.5,,Alive,21,,5,14,2,23,,,3,0.0053,1.8,0.0499
+161,Mixed,Dry microbes,24,Wet,3,21,Wet,,,,,13-Feb,28,1,2,,Alive,,,0,2,1,1,,,0,0,0,0.0055
+162,Mixed,Dry microbes,8,Dry,4,21,Wet,,17-Jan,1,,9-Feb,24,4,9,,Alive,23,,3,12.5,1,24,,,3,0.0071,2.4,0.0495
+175,Mixed,Dry microbes,9,Dry,4,21,Wet,,21-Jan,5,,8-Feb,23,3,13,,Alive,18,,1,13,1,8,,,14,0.0132,0.9,0.0248
+176,Mixed,Wet microbes,1,Wet,4,21,Wet,,17-Jan,1,,7-Feb,22,2,4.5,,Alive,21,,1,4.6,1,8,,,7,0.0096,1.4,0.0147
+179,Mixed,Wet microbes,23,Wet,4,21,Wet,,17-Jan,1,,8-Feb,23,2,4.5,,Alive,22,,1,5,1,18,,,4,0.0085,2.1,0.0175
+186,Mixed,Wet microbes,1,Dry,3,21,Wet,,17-Jan,1,,6-Feb,21,3,8,,Alive,20,,2,8.5,2,11,,,6,0.0119,2,0.0257
+193,Mixed,Dry microbes,24,Dry,4,21,Wet,,17-Jan,1,,5-Feb,20,4,11.5,,Alive,19,,3,14,1,17,,,24,0.0252,1.1,0.0413
+194,Mixed,Wet microbes,11,Wet,3,21,Wet,,17-Jan,1,,4-Feb,19,4,8.5,,Alive,18,,4,10.5,2,28,,,1,0.0037,3.7,0.029
+202,Mixed,Wet microbes,21,Dry,4,21,Wet,,17-Jan,1,,12-Feb,27,3,9,,Alive,26,,1,14.5,2,33,,,3,0.0082,2.7,0.0666
+208,Mixed,Dry microbes,19,Wet,4,21,Wet,,17-Jan,1,,6-Feb,21,4,15.5,,Alive,20,,3,17.5,1,13,,,10,0.0148,1.5,0.0345
+213,Mixed,Wet microbes,23,Wet,4,21,Wet,,17-Jan,1,,7-Feb,22,3,4.5,,Alive,21,,1,4.5,1,9,,,7,0.0113,1.6,0.0223
+236,Mixed,Dry microbes,19,Dry,4,21,Wet,,17-Jan,1,,9-Feb,24,3,6.5,,Alive,23,,2,11.5,0,16,,,8,0.0096,1.6,0.025
+237,Mixed,Dry microbes,19,Wet,4,21,Wet,,18-Jan,2,,6-Feb,21,4,11.5,,Alive,19,,4,14.5,1,19,,,18,0.0186,1,0.0338
+4,Mixed,Dry microbes,9,Dry,3,23,Dry,,,,,,,,,No Plant,dead,,No Plant,,,,,,,,,,
+12,Mixed,Dry microbes,24,Dry,3,23,Dry,,17-Jan,1,,11-Feb,26,5,11,,Alive,25,,3,12.5,1,11,,,4,0.0042,1.1,0.0261
+14,Mixed,Dry microbes,24,Dry,3,23,Dry,,17-Jan,1,,8-Feb,23,4,3.5,,Alive,22,,1,4.5,1,8,,,3,0.0053,1.8,0.0169
+18,Mixed,Wet microbes,23,Dry,3,23,Dry,,17-Jan,1,,16-Feb,31,3,7.5,,Alive,30,,0,8.5,1,19,,,0,0,0,0.0337
+24,Mixed,Wet microbes,11,Wet,3,23,Dry,,17-Jan,1,,10-Feb,25,4,8,,Alive,24,buds,4,15,2,62,bud,,7,0.0163,2.3,0.0784
+27,Mixed,Dry microbes,24,Dry,4,23,Dry,,17-Jan,1,,5-Feb,20,4,6.5,,Alive,19,,2,7.5,1,12,,,6,0.0083,1.4,0.0249
+31,Mixed,Dry microbes,24,Wet,3,23,Dry,,17-Jan,1,,8-Feb,23,4,9,,Alive,22,,5,10,1,37,,,0,0.0084,2.1,0.0482
+35,Mixed,Wet microbes,11,Wet,3,23,Dry,,19-Jan,3,,8-Feb,23,2,10,,Alive,20,,1,11.5,1,6,,,9,0.0111,1.2,0.0242
+38,Mixed,Wet microbes,23,Wet,4,23,Dry,,17-Jan,1,,5-Feb,20,4,9,,Alive,19,,2,8.5,1,7,,,10,0.0127,1.3,0.0233
+49,Mixed,Wet microbes,1,Dry,4,23,Dry,,17-Jan,1,,15-Feb,30,4,9,,Alive,29,,1,12.5,2,29,,,1,0.0026,2.6,0.0362
+53,Mixed,Dry microbes,8,Dry,4,23,Dry,,17-Jan,1,,14-Feb,29,4,10.5,,Alive,28,,0,14.5,1,50,,,0,0,0,0.058
+59,Mixed,Dry microbes,24,Wet,3,23,Dry,,17-Jan,1,,4-Feb,19,4,12.5,,Alive,18,,2,17,2,16,,,11,0.0208,1.9,0.0547
+64,Mixed,Dry microbes,24,Dry,4,23,Dry,,17-Jan,1,,,,,,,Alive,,,0,6.5,1,10,bud,,0,0,0,0.0271
+74,Mixed,Dry microbes,19,Dry,4,23,Dry,,18-Jan,2,,7-Feb,22,4,5.5,,Alive,20,,4,11,,10,,,9,0.0124,1.4,0.0429
+77,Mixed,Dry microbes,24,Wet,4,23,Dry,,17-Jan,1,,4-Feb,19,5,11,,Alive,18,,2,12.5,1,?,,,12,0.0134,1.1,0.0425
+79,Mixed,Dry microbes,19,Wet,2,23,Dry,,,,,11-Feb,26,2,9,,Alive,,,0,10,1,43,,,0,0,0,0.0217
+80,Mixed,Wet microbes,1,Dry,4,23,Dry,,17-Jan,1,,16-Feb,31,3,7,,Alive,30,,1,9,2,28,,,1,0.0032,3.2,0.0404
+86,Mixed,Wet microbes,1,Wet,4,23,Dry,,17-Jan,1,,6-Feb,21,4,5.5,,Alive,20,,4,6,2,6,,,11,0.0137,1.2,0.0489
+101,Mixed,Dry microbes,9,Dry,4,23,Dry,,17-Jan,1,,9-Feb,24,5,9,,Alive,23,,1,15.5,1,49,,,0,0,0,0.0757
+107,Mixed,Dry microbes,8,Dry,3,23,Dry,,24-Jan,8,,,,,,No Plant,dead,,No Plant,,,,,,,,,,
+123,Mixed,Dry microbes,24,Wet,4,23,Dry,,17-Jan,1,,13-Feb,28,5,19,,Alive,27,,7,21,2,60,,,1,0.0033,3.3,0.1217
+132,Mixed,Wet microbes,11,Wet,4,23,Dry,,17-Jan,1,,6-Feb,21,3,8.5,,Alive,20,,3,10.5,4,8,,,6,0.0067,1.1,0.0387
+138,Mixed,Wet microbes,21,Wet,4,23,Dry,,24-Jan,8,,,,,,No Plant,dead,,No Plant,,,,,,,,,,
+144,Mixed,Wet microbes,11,Wet,4,23,Dry,,21-Jan,5,,17-Feb,32,2,5,,Alive,27,,1,5,2,8,,,0,0,0,0.0137
+155,Mixed,Wet microbes,11,Dry,4,23,Dry,,24-Jan,8,,,,,,No Plant,dead,,No Plant,,,,,,,,,,
+157,Mixed,Wet microbes,1,Wet,3,23,Dry,,18-Jan,2,,12-Feb,27,3,8,,Alive,25,,1,11,,2,,,4,0.0072,1.8,0.007
+162,Mixed,Dry microbes,8,Dry,3,23,Dry,,17-Jan,1,,14-Feb,29,4,9.5,,Alive,28,,4,12,1,34,,,3,0.0062,2.1,0.0349
+170,Mixed,Wet microbes,21,Wet,3,23,Dry,,18-Jan,2,,9-Feb,24,4,7.5,,Alive,22,,3,11.5,1,28,,,3,0.0074,2.5,0.0533
+173,Mixed,Wet microbes,11,Dry,3,23,Dry,,17-Jan,1,,6-Feb,21,2,7.5,,Alive,20,,2,7,1,4,,,6,0.0089,1.5,0.0141
+175,Mixed,Dry microbes,9,Dry,3,23,Dry,,17-Jan,1,,5-Feb,20,5,13.5,,Alive,19,,5,18.5,1,10,,,24,0.0276,1.2,0.0552
+181,Mixed,Dry microbes,9,Dry,4,23,Dry,,17-Jan,1,,8-Feb,23,4,9.5,,Alive,22,,1,19.5,1,41,,,0,0,0,0.0605
+184,Mixed,Wet microbes,21,Dry,3,23,Dry,,,,,,,,,,Alive,,,0,11,1,20,bud,,0,0,0,0.0316
+202,Mixed,Wet microbes,21,Dry,3,23,Dry,,,,very late germination of initial seed sown.  Removed replacement,14-Feb,29,3,7,2nd plant late germination,,,2nd plant late germination,1,9.5,1,30,,,0,0,0,0.0271
+208,Mixed,Dry microbes,19,Wet,3,23,Dry,,18-Jan,2,,6-Feb,21,2,13,,Alive,19,,1,13.5,0,16,,,1,0.0012,1.2,0.0274
+221,Mixed,Dry microbes,19,Dry,4,23,Dry,,17-Jan,1,,11-Feb,26,4,11.5,,Alive,25,,3,14.5,1,14,,,12,0.0189,1.6,0.0637
+236,Mixed,Dry microbes,19,Dry,3,23,Dry,,18-Jan,2,,8-Feb,23,3,6,,Alive,21,,3,8.5,0,5,,,8,0.0125,1.6,0.0361
+239,Mixed,Dry microbes,9,Wet,4,23,Dry,,17-Jan,1,,4-Feb,19,5,16,,Alive,18,,5,20.5,1,14,,,4,0.0468,1,0.0799
+9,Mixed,Wet microbes,21,Wet,1,24,Dry,,17-Jan,1,,7-Feb,22,2,9.5,,Alive,21,immature fruit,5,13.5,2,27,immature fruit,,2,0.0045,2.3,0.0545
+14,Mixed,Dry microbes,24,Dry,1,24,Dry,,17-Jan,1,,14-Feb,29,3,8.5,,Alive,28,,2,12,1,16,bud,,3,0.0052,1.7,0.0303
+27,Mixed,Dry microbes,24,Dry,2,24,Dry,,17-Jan,1,,9-Feb,24,4,10,,Alive,23,,0,13,1,29,,,0,0,0,0.0346
+31,Mixed,Dry microbes,24,Wet,1,24,Dry,,17-Jan,1,,6-Feb,21,3,11.5,,Alive,20,,4,11.5,1,8,,,10,0.0115,1.2,0.0252
+38,Mixed,Wet microbes,23,Wet,2,24,Dry,,17-Jan,1,,8-Feb,23,3,6.5,,Alive,22,,7,11.5,2,67,immature fruit,all fruits are immature,0,0,0,0.0646
+46,Mixed,Dry microbes,8,Wet,1,24,Dry,,17-Jan,1,,14-Feb,29,3,8,,Alive,28,,1,9,1,4,,,0,0,0,0.0079
+48,Mixed,Wet microbes,1,Dry,1,24,Dry,,17-Jan,1,,8-Feb,23,4,7.5,,Alive,22,,2,9,2,30,,,3,0.0061,2,0.0263
+54,Mixed,Dry microbes,19,Dry,1,24,Dry,,17-Jan,1,,7-Feb,22,4,11,,Alive,21,,4,15,1,14,,,10,0.0102,1,0.0384
+56,Mixed,Wet microbes,23,Wet,1,24,Dry,,17-Jan,1,,,,,,bud,,,bud,5,6.5,2,30,immature fruit,,0,0,0,0.0358
+77,Mixed,Dry microbes,24,Wet,2,24,Dry,,,,,9-Feb,24,2,9,,Alive,,,2,9.5,0,10,,,2,0.0041,2.1,0.0216
+81,Mixed,Wet microbes,11,Dry,1,24,Dry,,18-Jan,2,,8-Feb,23,3,7,,Alive,21,,1,7,1,6,,,6,0.01,1.7,0.0141
+90,Mixed,Wet microbes,23,Dry,2,24,Dry,,19-Jan,3,,10-Feb,25,3,8.5,,Alive,22,,1,9.5,2,5,,,5,0.0085,1.7,0.0158
+91,Mixed,Wet microbes,23,Dry,1,24,Dry,,,,,18-Feb,33,2,3,,Alive,,,0,5.5,1,10,,,0,0,0,0.0097
+107,Mixed,Dry microbes,8,Dry,2,24,Dry,,24-Jan,8,,13-Feb,28,3,3.5,,Alive,20,,1,3.5,1,3,,,3,0.0035,1.2,0.0071
+109,Mixed,Wet microbes,11,Dry,2,24,Dry,,,,,13-Feb,28,2,5,,Alive,,,1,7.5,1,20,bud,,2,0.0043,2.2,0.0174
+110,Mixed,Dry microbes,8,Dry,1,24,Dry,,18-Jan,2,,10-Feb,25,4,8,,Alive,23,,2,10.5,1,16,,,3,0.0057,1.9,0.0242
+118,Mixed,Dry microbes,9,Wet,1,24,Dry,,20-Jan,4,,22-Feb,37,3,7.5,,Alive,33,,2,8.5,1,47,bud,,0,0,0,0.0405
+126,Mixed,Dry microbes,8,Wet,2,24,Dry,,,,,16-Feb,31,3,7,,Alive,,,1,6.5,1,18,,,2,0.0041,2.1,0.0132
+130,Mixed,Dry microbes,9,Wet,1,24,Dry,,17-Jan,1,,4-Feb,19,4,11.5,,Alive,18,,5,13,1,14,,,11,0.0158,1.4,0.0421
+134,Mixed,Dry microbes,19,Dry,2,24,Dry,,18-Jan,2,,5-Feb,20,3,4.5,,Alive,18,,2,5.5,1,13,,,5,0.0048,1,0.0134
+144,Mixed,Wet microbes,11,Wet,2,24,Dry,,18-Jan,2,,17-Feb,32,2,3.5,,Alive,30,,2,4.5,2,17,bud,,2,0.0032,1.6,0.0233
+145,Mixed,Dry microbes,9,Wet,1,24,Dry,,17-Jan,1,,6-Feb,21,4,12.5,,Alive,20,,3,14,0,13,,,20,0.0221,1.1,0.0611
+157,Mixed,Wet microbes,1,Wet,1,24,Dry,,,,,,,,,,Alive,,small plant,2,10,1,34,bud,,0,0,0,0.0442
+168,Mixed,Wet microbes,1,Dry,2,24,Dry,,17-Jan,1,,,,,,bud,,,bud,0,4.5,1,14,,,0,0,0,0.0169
+170,Mixed,Wet microbes,21,Wet,1,24,Dry,,17-Jan,1,,17-Feb,32,4,7,,Alive,31,,5,12.5,2,56,bud,,0,0,0,0.0639
+171,Mixed,Wet microbes,23,Wet,1,24,Dry,,17-Jan,1,,,,,,dead,dead,,dead,0,1.5,0,3,,,0,0,0,0.0115
+173,Mixed,Wet microbes,11,Dry,2,24,Dry,,18-Jan,2,,10-Feb,25,3,6,,Alive,23,,1,7.5,,20,,,2,0.0034,1.7,0.0177
+175,Mixed,Dry microbes,9,Dry,2,24,Dry,,,,,11-Feb,26,4,8.5,,Alive,,,1,8.5,1,18,,,0,0,0,0.028
+176,Mixed,Wet microbes,1,Wet,1,24,Dry,,17-Jan,1,,9-Feb,24,3,8.5,,Alive,23,,11,16.5,1,68,bud,,8,0.0203,2.5,0.01394
+181,Mixed,Dry microbes,9,Dry,1,24,Dry,,17-Jan,1,,7-Feb,22,3,11,,Alive,21,,3,17,,8,,,3,0.0081,2.7,0.0388
+186,Mixed,Wet microbes,1,Dry,1,24,Dry,,17-Jan,1,,16-Feb,31,3,8,,Alive,30,,1,11.5,1,13,,,0,0,0,0.0225
+193,Mixed,Dry microbes,24,Dry,2,24,Dry,,17-Jan,1,,6-Feb,21,5,13.5,,Alive,20,,1,8,,8,,,2,0.0056,2.8,0.0095
+194,Mixed,Wet microbes,11,Wet,2,24,Dry,,17-Jan,1,,9-Feb,24,4,6.5,,Alive,23,,13,15,1,65,immature fruit,immature fruit,0,0,0,0.0757
+208,Mixed,Dry microbes,19,Wet,2,24,Dry,,18-Jan,2,,8-Feb,23,4,8.5,,Alive,21,,2,8.5,1,17,,,5,0.0067,1.3,0.0187
+232,Mixed,Wet microbes,21,Dry,1,24,Dry,,17-Jan,1,,16-Feb,31,3,6.5,,Alive,30,,2,6,1,26,,,,,,
+236,Mixed,Dry microbes,19,Dry,2,24,Dry,,17-Jan,1,,3-Feb,18,4,8,,Alive,17,,3,8.5,1,22,,,0,0,0,0.0301
+,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,
