@@ -74,7 +74,9 @@ plot(intmean,abbrev.levels=FALSE)
 Vtsa<-read.csv("Vtrisa.csv",header=TRUE,na.strings="")
 library(lme4)
 head(Vtsa)
-gl3<-glmer(AvgSeedCo~Trt*Supp+AJCount+Underdev*Supp+(1|Rep),data=Vtsa,family="poisson")
+gl3<-glmer(AvgSeedCo~Trt*Supp+AJCount+Underdev*Supp+(1|ArrayID),data=Vtsa,family="poisson")
+
+lapply(Vtsa,levels)
 
 DD.vs.X<-list(Trt=c(1,0,0,-1))
 DS.vs.X<-list(Trt=c(0,1,0,-1))
