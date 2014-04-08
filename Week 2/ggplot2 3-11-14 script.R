@@ -43,12 +43,19 @@ qplot(wt,mpg,data=mtcars,color=factor(cyl))
 levels(mtcars$cyl)#this command does not work initially
 is.factor(mtcars$cyl)#so cyl is continuous
 is.numeric(mtcars$cyl) # it is numeric
-#Make new dataset with cyl as factor
+
+#Make new dataset with cyl as factor (This method is most simple)
 mtcars2<-mtcars
-head(mtcars)
-for(i in 2)mtcars2[,i]<-factor(mtcars[,i])
+mtcars2$cyl<-as.factor(mtcars2$cyl)
 is.factor(mtcars2$cyl)
 qplot(wt,mpg,data=mtcars2,color=cyl)
+
+#Make new dataset with cyl as factor (This method is most appropriate for changing multiple factors at once)
+mtcars3<-mtcars
+head(mtcars)
+for(i in 2)mtcars3[,i]<-factor(mtcars[,i])
+is.factor(mtcars3$cyl)
+qplot(wt,mpg,data=mtcars3,color=cyl)
 
 #change cyl to character
 fix(mtcars)
