@@ -1,4 +1,4 @@
-#Benefits of ggplot2 over traditional plotting:
+##Benefits of ggplot2 over traditional plotting:
 
 #clear workspace
 rm(list=ls())
@@ -101,9 +101,13 @@ t.table<-ddply(diamonds,c("clarity","cut"),"nrow")
 head(t.table)
 
 qplot(cut,nrow,data=t.table,geom="bar",stat="identity")
+#stat=identity means that the bars represent the values of the data. geom="bar" by default uses stat=bin which represents the height of each bar equal to the number of cases in each group
+qplot(cut,nrow,data=t.table,geom="bar",stat="identity")
 qplot(cut,nrow,data=t.table,geom="bar",stat="identity",fill=clarity)
 
+
 qplot(cut, data=diamonds, geom="bar", weight=carat)
+#In this case the height of the bars do not represent frequency but the total number of carats in each category
 qplot(cut, data=diamonds, geom="bar", weight=carat, ylab="carat")
 
 #using ddply (split data.frame in subframes and apply functions)
@@ -112,6 +116,9 @@ ddply(diamonds, "cut","nrow")
 ddply(diamonds, c("cut", "clarity"), "nrow")
 ddply(diamonds,"cut",summarize,meanDepth=mean(depth))
 ddply(diamonds,"cut",summarize,lower=quantile(depth,0.25,na.rm=TRUE),median=median(depth,na.rm=TRUE),upper=quantile(depth,0.75,na.rm=TRUE))
+#summarize can be used as a separate function to create a new dataframe with summary statistics
+summarize(diamonds, meanDepth=mean(depth))
+#combined with ddply, summarize applies the function to separate groups, similar to aggregate
 
 t.function <- function(x,y){
   z = sum(x) / sum(x+y)
