@@ -19,9 +19,6 @@ qplot(clarity,data=diamonds,fill=cut,geom="bar")
 qplot(carat,data=diamonds)
 #unless you specify x variable
 qplot(carat, price, data=diamonds,geom="line")
-#How do you change the order of variable and apply them to the histogram?
-levels(diamonds$cut)
-levels(diamonds$cut)=c("Ideal","Premium","Fair","Good","Very Good")
 
 ##PICKING UP FROM PAGE 5
 ###histogram
@@ -129,13 +126,11 @@ head(mtcars)
 p.tmp2+geom_point()
 p.tmp2+geom_point()+geom_point(aes(y=disp))#Now shows both weight and dispplacement on y-axis
 #arguments for aes x= and y=
-##{{}}How to add an a y-axis to other side of plot
 #aes can match traditional terms for plotting (like pch and cex) to ggplot names
 
 #This changes current plot format instead of adding to it 
 p.tmp2+geom_point(color="darkblue")
-p.tmp2+geom_point(aes(color="darkblue"))#?
-#Check how to change colors if coded for cylinder
+p.tmp2+geom_point(aes(color="darkblue"))#This method does not work since darkblue is not a factor
 
 ###what if too many data points make it hard to read the plot?
 #generate dataset
