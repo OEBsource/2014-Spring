@@ -18,7 +18,10 @@ qplot(clarity,data=diamonds,fill=cut,geom="bar")
 #histogram is also default for continuous y
 qplot(carat,data=diamonds)
 #unless you specify x variable
-qplot(carat, price, data=diamonds)
+qplot(carat, price, data=diamonds,geom="line")
+#How do you change the order of variable and apply them to the histogram?
+levels(diamonds$cut)
+levels(diamonds$cut)=c("Ideal","Premium","Fair","Good","Very Good")
 
 ##PICKING UP FROM PAGE 5
 ###histogram
@@ -57,6 +60,7 @@ qplot(wt,mpg,data=mtcars,geom=c("point","smooth"),method="lm")
 #can also specificy the formula yourself
 library(splines)
 qplot(wt,mpg,data=mtcars,geom=c("point","smooth"),method="lm",formula=y~ns(x,5))#the higher the number, the more wavy
+##Look into this more
 
 ###flipping axes
 #separate by cylinder
@@ -131,6 +135,7 @@ p.tmp2+geom_point()+geom_point(aes(y=disp))#Now shows both weight and dispplacem
 #This changes current plot format instead of adding to it 
 p.tmp2+geom_point(color="darkblue")
 p.tmp2+geom_point(aes(color="darkblue"))#?
+#Check how to change colors if coded for cylinder
 
 ###what if too many data points make it hard to read the plot?
 #generate dataset
