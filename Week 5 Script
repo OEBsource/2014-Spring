@@ -1,0 +1,186 @@
+#ggplot2 tutorial for SOURCE
+#install & load ggplot library
+library("ggplot2")
+
+#show info about the data
+head(diamonds)
+head(mtcars)
+
+#comparison qplot vs. ggplot
+#qplot histogram
+qplot(clarity, data=diamonds, fill=cut, geom="bar")
+#ggplot histogram -> same output
+ggplot(diamonds, aes(clarity, fill=cut))+geom_bar()
+
+#how to use qplot
+#scatterplot
+qplot(wt,mpg,data=mtcars)
+
+#transform input data with functions
+qplot(log(wt),mpg-10,data=mtcars)
+
+#add aesthetic mapping (hint: how does mapping work)
+qplot(wt,mpg,data=mtcars,color=qsec)
+
+#change size of points (hint: color/colour, hint: set aesthetic/mapping)
+qplot(wt,mpg,data=mtcars,color=qsec,size=3)
+qplot(wt,mpg,data=mtcars,colour=qsec,size=I(3))
+
+#use alpha blending
+qplot(wt,mpg,data=mtcars,alpha=qsec)
+
+#continuous scale vs. discrete scale
+head(mtcars)
+qplot(wt,mpg,data=mtcars,colour=cyl)
+levels(mtcars$cyl)
+qplot(wt,mpg,data=mtcars,colour=factor(cyl))
+
+#use different aesthetic mappings
+qplot(wt,mpg,data=mtcars,shape=factor(cyl))
+qplot(wt,mpg,data=mtcars,size=qsec)
+
+#combine mappings (hint: hollow points, geom-concept, legend combination)
+qplot(wt,mpg,data=mtcars,size=qsec,color=factor(carb))
+qplot(wt,mpg,data=mtcars,size=qsec,color=factor(carb),shape=I(1))
+qplot(wt,mpg,data=mtcars,size=qsec,shape=factor(cyl),geom="point")
+qplot(wt,mpg,data=mtcars,size=factor(cyl),geom="point")
+
+#bar-plot
+qplot(factor(cyl),data=mtcars,geom="bar")
+
+#flip plot by 90 degrees
+qplot(factor(cyl),data=mtcars,geom="bar")+coord_flip()
+#flips plot after calculation of any summary statistics
+
+#difference between fill/color bars
+qplot(factor(cyl),data=mtcars,geom="bar", fill=factor(cyl))
+qplot(factor(cyl),data=mtcars,geom="bar",colour=factor(cyl))
+
+#fill by variable
+qplot(factor(cyl),data=mtcars,geom="bar",fill=factor(gear))
+
+#use different display of bars (stacked, dodged, identity)
+head(diamonds)
+qplot(clarity,data=diamonds,geom="bar",fill=cut,position="stack")
+qplot(clarity,data=diamonds,geom="bar",fill=cut,position="dodge")
+qplot(clarity,data=diamonds,geom="bar",fill=cut,position="fill")
+qplot(clarity,data=diamonds,geom="bar",fill=cut,position="identity")
+
+qplot(clarity,data=diamonds,geom="freqpoly",group=cut,colour=cut,position="identity")
+qplot(clarity,data=diamonds,geom="freqpoly",group=cut,colour=cut,position="stack")
+
+#using pre-calculated tables of weights (hint: usage of ddply in package plyr)
+library(plyr)
+table(diamonds$cut)
+t.table<-ddply(diamonds,c("clarity","cut"),"nrow")
+head(t.table)
+
+qplot(cut,nrow,data=t.table,geom="bar")
+qplot(cut,nrow,data=t.table,geom="bar",stat="identity")
+qplot(cut,nrow,data=t.table,geom="bar",stat="identity",fill=clarity)
+
+qplot(cut,data=diamonds,geom="bar",weight=carat)
+qplot(cut,data=diamonds,geom="bar",weight=carat,ylab="carat")
+
+#excursion ddply (split data.frame in subframes and apply functions)
+ddply(diamonds,"cut","nrow")
+ddply(diamonds,c("cut","clarity"),"nrow")
+ddply(diamonds,"cut",mean)
+ddply(diamonds,"cut",summarise,meanDepth=mean(depth))
+ddply(diamonds,"cut",summarise,lower=quantile(depth,0.25,na.rm=TRUE),median=median(depth,na.rm=TRUE),upper=quantile(depth,0.75,na.rm=TRUE))
+
+t.function<-function(x,y){
+	z=sum(x)/sum(x+y)
+	return(z)
+}
+
+ddply(diamonds,"cut",summarise, custom=t.function(depth,price))
+ddply(diamonds,"cut", summarise,custom=sum(depth)/sum(depth+price))
+#back to ggplot
+
+#histogram
+qplot(carat,data=diamonds,geom="histogram")
+
+#change binwidth
+qplot(carat,data=diamonds,geom="histogram",binwidth=0.1)
+qplot(carat,data=diamonds,geom="histogram",binwidth=0.01)
+
+#use geom to combine plots (hint: order of layers)
+qplot(wt,mpg,data=mtcars,geom=c("point","smooth"))
+qplot(wt,mpg,data=mtcars,geom=c("smooth","point"))
+qplot(wt,mpg,data=mtcars,color=factor(cyl),geom=c("point","smooth"))
+
+#picking up on page 8 next time
+
+#page 8 - changing text
+#changing text (directly in qplot/additional shortcut)
+qplot(mpg,wt,data=mtcars,colour=factor(cyl),geom="point",xlab="Descr. of x-axis",main="Our Sample Plot")
+qplot(mpg,wt,data=mtcars,colour=factor(cyl),geom="point")+xlab("x-axis")
+
+#changing name of legend (bug: in labs you must use "colour," "color" doesn't work)
+qplot(mpg,wt,data=mtcars,colour=factor(cyl),geom="point")+labs(colour="Legend-Name")
+
+#removing legend
+qplot(mpg,wt,data=mtcars,colour=factor(cyl),geom="point")+scale_color_discrete(legend=FALSE)#warning - "legend" is deprecated - use "guide="none"" instead
+qplot(mpg,wt,data=mtcars,colour=factor(cyl),geom="point")+scale_color_discrete(guide="none")
+qplot(mpg,wt,data=mtcars,colour=factor(cyl),geom="point")+opts(legend.position="none")#warning - 'opts' is deprecated, use 'theme' instead
+qplot(mpg,wt,data=mtcars,colour=factor(cyl),geom="point")+theme(legend.position="none")
+
+#moving legend to another place
+qplot(mpg,wt,data=mtcars,colour=factor(cyl),geom="point")+theme(legend.position="left")
+
+#changing labels on legend
+qplot(mpg,wt,data=mtcars,colour=factor(cyl),geom="point")+scale_colour_discrete(name="Legend for cyl", breaks=c("4","6","8"),labels=c("four","six","eight"))
+
+#reordering breaks (values of legend)
+qplot(mpg, wt, data=mtcars, colour=factor(cyl),geom="point")+scale_colour_discrete(name="Legend for cyl", breaks=c("8","4","6"))
+
+#dropping factors
+mtcars2<-transform(mtcars,cyl=factor(cyl))
+levels(mtcars2$cyl)
+qplot(mpg,wt,data=mtcars2,colour=cyl,geom="point")+scale_colour_discrete(limits=c("4","8"))
+
+#limits vs zooming in vs breaks
+p.tmp<-qplot(wt,mpg,data=mtcars,geom=c("point","smooth"),method="lm")
+p.tmp
+p.tmp+scale_x_continuous(limits=c(2,3)) #original used x values of 15 & 30
+p.tmp+coord_cartesian(xlim=c(2,3)) #original used x values of 15 & 30
+p.tmp
+p.tmp+scale_x_continuous(breaks=c(1.5,4,5))#original used 15,18,27
+p.tmp+scale_x_continuous(breaks=c(1.5,4,5),labels=c("low","middle","high")) #original used 15,18,27
+
+#using transformation
+qplot(mpg,wt,data=mtcars,colour=factor(cyl),geom="point")
+qplot(mpg,wt,data=mtcars,colour=factor(cyl),geom="point")+scale_y_continuous(trans="log2")
+qplot(mpg,wt,data=mtcars,colour=factor(cyl),geom="point")+scale_y_continuous(trans="log2")+scale_x_log10()
+
+###themes
+#use theme for plot only
+qplot(mpg,wt,data=mtcars,geom="point")
+qplot(mpg,wt,data=mtcars,geom="point")+theme_bw()
+
+#change font size for all labels (change base_size)
+qplot(mpg,wt,data=mtcars,geom="point")+theme_bw(18)
+
+#change theme for all future plot
+theme_set(theme_bw())
+
+#get current theme
+theme_get()
+
+#change specific options (hint: "color" does not work in theme_text() -> use 'colour')
+qplot(mpg,wt,data=mtcars,geom="point",main="this is a test plot")
+qplot(mpg,wt,data=mtcars,geom="point",main="this is a test plot")+theme(axis.line=element_line(),plot.title=element_text(size=20,face="bold",colour="steelblue"),panel.grid.minor=element_blank(),panel.background=element_blank(),panel.grid.major=element_line(linetype="dotted",colour="lightgrey",size=0.5)) #a bunch of things in original statement were deprecated
+
+###create barplot like lattice
+#use combination of geoms and specific stat for bin calculation
+#this is not working
+#qplot(x=factor(gear),ymax=..count..,ymin=0,ymax=..count..,label=..count..,data=mtcars,geom=c("pointrange","test"),stat="bin",vjust=-0.5,color=l("blue"))=coord_flip()+theme_bw()
+
+###create a pie-chart, radar-chart (hint: not recommended)
+#map a barchart to a polar coordinate system
+p.tmp<-ggplot(mtcars,aes(x=factor(1),fill=factor(cyl)))+geom_bar(width=1)
+p.tmp
+p.tmp+coord_polar(theta="y")
+p.tmp+coord_polar()
+ggplot(mtcars,aes(factor(cyl),fill=factor(cyl)))+geom_bar(width=1)+coord_polar()
